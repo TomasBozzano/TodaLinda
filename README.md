@@ -4,9 +4,10 @@ Para abordar temas específicos y optimizar el rendimiento, se han utilizado div
 
 💻  También hemos tomado un poco la UX para hacer amigable la visualización de los datos, utilizando un sistema CRUD.
 
-#Login
+# Registro de usuario #
 [![Toda-Linda.png](https://i.postimg.cc/C1w0LF48/Toda-Linda.png)](https://postimg.cc/2q9M0NMj)
-#Pantalla Principal
+
+# Pantalla Principal #
 [![Pantalla-Principal.png](https://i.postimg.cc/tg3yj1Fy/Pantalla-Principal.png)](https://postimg.cc/Ty3Bj3kH)
-#Pantallas de datos
+# Pantallas de datos #
 [![Screenshot-1.png](https://i.postimg.cc/wjsgw4v1/Screenshot-1.png)](https://postimg.cc/xXYwCRLQ)
