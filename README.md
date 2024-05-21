@@ -5,7 +5,7 @@ Para abordar temas específicos y optimizar el rendimiento, se han utilizado div
 
 Además, hemos puesto un especial énfasis en la experiencia del usuario (UX) para hacer la visualización de los datos más amigable. Para ello, hemos implementado un sistema CRUD (Crear, Leer, Actualizar, Eliminar), facilitando la gestión y manipulación de la información de manera intuitiva y accesible para los usuarios.
 
-🖥️ ### Tecnologias aplicadas ###
+# 🖥️ Tecnologias aplicadas #
   - Netbeans (IDE)
   - ERWIN DATA MODELER (modelado de datos)
   - SQL SERVER (Base de datos)
